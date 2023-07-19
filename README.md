@@ -14,7 +14,7 @@ The libraries required to run this notebook are
 2. `matplotlib`
 3. `Scipy`
 3. `Jax` (on cpu should be enough)
-4. `Flax` (Jax has to be installed before instlling it)
+4. `Flax` (Jax has to be installed before installing it)
 
 
-Disclaimer: Part of the notebooks were based off different existing notebooks/tutorials on Jax/Flax for diffusion models.
+Disclaimer: Part of the notebooks were based off of different existing notebooks/tutorials on Jax/Flax for diffusion models.
